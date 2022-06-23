@@ -29,8 +29,6 @@ function multiple(p1,p2){
 }
 multiple(9,10);
 
-<<<<<<< HEAD
 console.log("hiiiiiiiiiiiiiiiiiiiiiiii")
-=======
 console.log("helloeppppppp")
->>>>>>> hello
+console.log("some changessssssssss")
