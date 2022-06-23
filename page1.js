@@ -22,3 +22,10 @@ function mult(p1,p2){
 }
 mult(9,10);
 
+function multiple(p1,p2){
+   
+    console.log("",p1*p2)
+
+}
+multiple(9,10);
+
