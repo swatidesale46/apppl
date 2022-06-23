@@ -15,4 +15,10 @@ function sub(p1,p2){
 
 }
 sub(9,10);
+function mult(p1,p2){
+   
+    console.log("multiple",p1*p2)
+
+}
+mult(9,10);
 
